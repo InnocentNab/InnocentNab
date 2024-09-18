@@ -8,7 +8,7 @@ I'm a Software Engineer, Content Creator. I'm passionate about sharing knowledge
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning JavaScript, React.js, and Node.js.
+- 🌱 I work with JavaScript, typescript, Node.js, express js.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Back Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing solomon.eniola7@gmail.com.
